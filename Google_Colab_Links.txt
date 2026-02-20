@@ -3,3 +3,5 @@ Day3--> https://colab.research.google.com/drive/1LjNch2Y-XeFnnoTAvQmZFYcelrVxJWZ
 Day4--> https://colab.research.google.com/drive/1RwOqmTIYBfaZZ5Bz37vuSJYGTa_tO5Ud?usp=sharing
 
 Day5--> https://colab.research.google.com/drive/1Bf8EMzh8fAYhhoSevg_lzGDkI48PEbFV?usp=sharing
+
+Day--6  https://colab.research.google.com/drive/159XF166U2ErbFmpGT11q9YrKBp4RaXsm?usp=sharing
