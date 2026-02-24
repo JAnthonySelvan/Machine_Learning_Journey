@@ -7,3 +7,5 @@ Day5--> https://colab.research.google.com/drive/1Bf8EMzh8fAYhhoSevg_lzGDkI48PEbF
 Day6--> https://colab.research.google.com/drive/159XF166U2ErbFmpGT11q9YrKBp4RaXsm?usp=sharing
 
 Day7--> https://colab.research.google.com/drive/1yYra3Q1-srWzIK56zP0aqRJNI_Fd8R3n?usp=sharing
+
+Day8--> https://colab.research.google.com/drive/1JPbKWTxuQrJDwXnfESbjcnHj3gmO9faQ?usp=sharing
