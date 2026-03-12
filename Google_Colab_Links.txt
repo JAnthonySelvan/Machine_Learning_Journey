@@ -13,3 +13,6 @@ Day8--> https://colab.research.google.com/drive/1JPbKWTxuQrJDwXnfESbjcnHj3gmO9fa
 Day9--> https://drive.google.com/file/d/1nFRTzG6as4rW-NUZ1UhlF_USpRlW3zSn/view?usp=sharing
 
 Day10--> https://colab.research.google.com/drive/1pa5Rnfab_5aJBSghZPizxNU2vnuYwByw?usp=sharing
+
+Day11--> https://colab.research.google.com/drive/1opsWAk4mqVdAHryqescd8Fla-VjERcep?usp=sharing
+
