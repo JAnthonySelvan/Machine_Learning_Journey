@@ -26,3 +26,5 @@ Day15--> https://colab.research.google.com/drive/1K8Ym6Wc71Cro98k2xkL7wDnHPLY7Mm
 
 Day16--> https://colab.research.google.com/drive/1btCslh4odaZu2EB_LeyzJB5ukrRVF8zF?usp=sharing
 
+Day19--> https://colab.research.google.com/drive/110kGpGXwtdTPJ1AMKv5k_CcXUFyZQ0Ef?usp=sharing
+
