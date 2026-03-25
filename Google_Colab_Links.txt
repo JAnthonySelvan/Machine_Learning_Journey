@@ -30,3 +30,5 @@ Day19--> https://colab.research.google.com/drive/110kGpGXwtdTPJ1AMKv5k_CcXUFyZQ0
 
 Day20--> https://colab.research.google.com/drive/1C46GwZpgBPvH4wsOfgcoxofXYeLaXJwi?usp=sharing
 
+Day21--> https://colab.research.google.com/drive/13zTC-5YfGIBjkqRM5At2bNLMBaTz35Zz?usp=sharing
+
