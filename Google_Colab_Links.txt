@@ -38,3 +38,5 @@ Day23--> https://colab.research.google.com/drive/1frar2pdyJ0HMH2Y9HJ9i-fdGRbIDjS
 
 Day24--> https://colab.research.google.com/drive/1Cgh6lO-7LYhicOJu1bFo--GDfTknPrGk?usp=sharing
 
+Day25--> https://colab.research.google.com/drive/1HPwX7xWTBuPx-xMgcgswCuQwURW9pjia?usp=sharing
+
